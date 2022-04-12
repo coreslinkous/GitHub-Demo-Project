@@ -19,6 +19,7 @@ Objects {
   ChildIds: 10005074784157121906
   ChildIds: 14982843161775482339
   ChildIds: 13388940194777290711
+  ChildIds: 18321297889733229479
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34,6 +35,40 @@ Objects {
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
+  }
+}
+Objects {
+  Id: 18321297889733229479
+  Name: "School Bus - Graffitied"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2385410008608882498
+      value {
+        Overrides {
+          Name: "Name"
+          String: "School Bus - Graffitied"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -771.021606
+            Y: -217.678177
+            Z: 2.28881836e-05
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9931656072037236032
+    }
   }
 }
 Objects {
