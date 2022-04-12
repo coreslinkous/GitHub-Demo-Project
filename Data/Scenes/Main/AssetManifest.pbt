@@ -8,6 +8,15 @@ Assets {
   }
 }
 Assets {
+  Id: 15450499479716905921
+  Name: "Nature - Mushroom 06"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_nat_fun_mushroom_006_ref"
+  }
+}
+Assets {
   Id: 12095835209017042614
   Name: "Cube"
   PlatformAssetType: 1
@@ -41,5 +50,14 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_nat_fun_mushroom_004_ref"
+  }
+}
+Assets {
+  Id: 4215300857067092039
+  Name: "Nature - Mushroom 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_nat_fun_mushroom_001_ref"
   }
 }
