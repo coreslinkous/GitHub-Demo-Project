@@ -34,3 +34,12 @@ Assets {
     AssetId: "CORESKY_Sky"
   }
 }
+Assets {
+  Id: 7217850856124726140
+  Name: "Nature - Mushroom 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_nat_fun_mushroom_004_ref"
+  }
+}
